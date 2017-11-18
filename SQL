@@ -1,5 +1,0 @@
-This file regards all sql related documentation. Such as:
-
-Tables;
-Code;
-Diagrams.
